@@ -111,7 +111,11 @@ Download the .pbix file
 Open in Power BI Desktop
 
 Explore the interactive visuals and filters
-📄 **Download Full Report (PDF):** [Banking Marketing Campaign Analysis.pdf](Banking Marketing Campaign Analysis.pdf)
+
+## screenshots of the dashboard:
+<img width="1016" height="580" alt="kpi" src="https://github.com/user-attachments/assets/96f6de42-4510-4dbe-b9ac-6f5372fa6be9" />
+
+<img width="974" height="558" alt="segment" src="https://github.com/user-attachments/assets/97ba1d6b-052d-44e2-b45d-207ccea74901" />
 
 👩‍💻 Author
 Bindu Lokesh  
