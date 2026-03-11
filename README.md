@@ -111,6 +111,7 @@ Download the .pbix file
 Open in Power BI Desktop
 
 Explore the interactive visuals and filters
+📄 **Download Full Report (PDF):** [Banking Marketing Campaign Analysis.pdf](Banking Marketing Campaign Analysis.pdf)
 
 👩‍💻 Author
 Bindu Lokesh  
